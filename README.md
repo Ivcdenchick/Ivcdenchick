@@ -18,5 +18,5 @@
 [![TelegramContact](https://img.shields.io/badge/-Telegram-474a50?style=for-the-badge&logo=Telegram)](https://t.me/IVCHENKODENYS)
 [![Skype](https://img.shields.io/badge/-Skype-474a50?style=for-the-badge&logo=Skype)](https://join.skype.com/invite/b8xmNwyNfzEo)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-474a50?style=for-the-badge&logo=LinkedIn&logoColor=007bb6)](https://www.linkedin.com/in/denys-ivchenko)
-[![Phone](https://img.shields.io/badge/-+380982764886-474a50?style=flat-square&logo)](tel:+380982764886)
-[![Email](https://img.shields.io/badge/-ltysdr10004@gmail.com-474a50?style=flat-square&logo)](mailto:ltysdr10004@gmail.com)
+[![Phone](https://img.shields.io/badge/-Tel:+380982764886-474a50?style=flat-square&logo)](tel:+380982764886)
+[![Email](https://img.shields.io/badge/-Email:ltysdr10004@gmail.com-474a50?style=flat-square&logo)](mailto:ltysdr10004@gmail.com)
